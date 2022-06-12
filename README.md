@@ -10,7 +10,7 @@ Projeyi indirdikten sonra vscode ile açın.
 
 Linux için:
 
-```cd kodluyoruzilkrepo````
+```cd kodluyoruzilkrepo```
 code .
 
 ## Contributing
